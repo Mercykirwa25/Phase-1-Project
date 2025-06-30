@@ -11,13 +11,23 @@ This project seeks to answer key business questions by:
 
 * Identifying trends in airplane accidents and incidents.
 
-* Highlighting low-risk airplane with the fewest accidents and fatalities.
+* Highlighting low-risk airplanes with the fewest accidents and fatalities.
 
 * Analyzing contributing factors such as weather, mechanical failure or human error.
 
 * Comparing safety records and identifying the best airplanes for commercial and private enterprises.
 
 * Providing actionable recommendations to support airplane purchase decisions.
+
+## Business Understanding
+The core business question is: 
+`Which type of operating airplanes should be purchased for safe and reliable Commercial and Private operations?`
+To answer this, the analysis will explore the following sub-questions:
+
+1. What are the specifications of aircrafts and filter airplanes in the dataset?
+2. How many accidents or incidents has each airplane been involved in and Top 10 safest airplanes?
+3. What were the causes of the accidents or the incidents and the level of damage sustained on the airplane?
+4. Are the said safest airplanes useful for commercial and private operations?
 
 ## Data Understanding
 The `dataset` for this analysis is a from `Kaggle` [Aviation Accident Database & Synopses, up to 2023](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) which covers civil aviation accidents and selected incidents from 1962 to 2023, in the United States and international waters.
@@ -35,15 +45,7 @@ It includes detailed information on:
 
 The data is stored in an CSV file (`AviationData.csv`) and requires cleaning and preprocessing before analysis
 
-## Business Understanding
-The core business question is: 
-`Which type of operating airplanes should be purchased for safe and reliable Commercial and Private operations?`
-To answer this, the analysis will explore the following sub-questions:
 
-1. What are the specifications of aircrafts and filter airplane in the dataset?
-2. How many accidents or incidents has each airplane been involved in and Top 10 safest airplane?
-3. What were the causes of the accidents or the incidents and the level of damage sustained on the airplane?
-4. Are the said safest airplanes useful for commercial and private operations?
 
 ## Data Preparation
 ### Requirements
@@ -59,7 +61,7 @@ To answer this, the analysis will explore the following sub-questions:
 * Aggregate and clean text data
     Normalize categories for consistency and easier analysis.
 
-## Data Analysis
+## Data Cleaning
 The dataset contains 88889 records(rows) and 31 features(columns).
 The columns in the dataset contain both string represented as object and decimal numbers as float. That is 5 numerical data and 26 categorical data.
 There are several columns with missing values. Records should be `88889` which is not the case for most columns. 
