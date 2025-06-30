@@ -1,4 +1,4 @@
-# .  Aviation Accident Database & Synopses, up to 2023 Data Analysis
+# Aviation Accident Database & Synopses, up to 2023 Data Analysis
 ## Project Overview
 This project analyzes the `Aviation Accident Database & Synopses` `dataset`, which contains records of civil aviation accidents and selected incidents from 1962 to 2023.
 
@@ -19,7 +19,7 @@ This project seeks to answer key business questions by:
 
 * Providing actionable recommendations to support airplane purchase decisions.
 
-  ## Data Understanding
+## Data Understanding
 The `dataset` for this analysis is a from `Kaggle` [Aviation Accident Database & Synopses, up to 2023](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) which covers civil aviation accidents and selected incidents from 1962 to 2023, in the United States and international waters.
 
 It includes detailed information on:
@@ -71,7 +71,7 @@ However,
 * The title casing should be standardized
 * Dates should be converted to Datetime
 
-  ## Question 1 : What are the specifications of aircrafts and filter airplane in the dataset?
+## Question 1 : What are the specifications of aircrafts and filter airplane in the dataset?
 * Most Airplanes have 1 engine.
 * Reciprocating engine types are the most common among airplanes.
 * Most Airplanes are not Amateur Built
@@ -86,14 +86,14 @@ However,
 * Most airplanes were substantially damaged in the events.
 * Unexpectedly most events occurred when the weather was generally good.
 
-  ## Question 4: Are the said safest airplanes useful for commercial and private operations?
+## Question 4: Are the said safest airplanes useful for commercial and private operations?
 * The data on airplanes purpose were missing, hence the outcome of unknown use high counts.
 * `Boeing 747-123` clearly determined by bivariate, multivariate analysis is used for both commercial and personal.
   
 
   
 
-  # Final Recommendation
+# Final Recommendation
 
 Based on the dataset provided and the criteria of low injury severity and minimal damage, the `Boeing 747-123` emerges as the most suitable aircraft for the new aviation division. It is not only identified as safe, but is also positively confirmed to serve both commercial and private operations, making it the ideal candidate for acquisition.
 
