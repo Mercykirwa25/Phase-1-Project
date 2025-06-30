@@ -75,36 +75,27 @@ However,
 * Most Airplanes have 1 engine.
 * Reciprocating engine types are the most common among airplanes.
 * Most Airplanes are not Amateur Built
+![Common Engine Types plot](./q1_common_engine_amateur_types.png)
+![Common Number of Engines plot](./q1_common_engine_numbers.png)
 
-  ## Question 2: How many accidents or incidents has each airplane been involved in and Top 10 safest airplane?
+## Question 2: How many accidents or incidents has each airplane been involved in and Top 10 safest airplane?
 * Airbus.Industrie A300, Boeing 747-123, Douglas DC-9-51, Mcdonnell.Douglas DC-10-40,Boeing 737-130 are top 5 most safe airplanes with low fatalities but high counts.
 * Accidents where the highest causes of fatalities compared to incidents.
 * Cessna models have had high counts of fatal accidents over time.
+![Severity Counts plot](./q2_common_injurysevere.png)
+![Safe Airplanes](./q2_safe_airplanetype.png)
+![Trends Injury Severity](./q2_trends_injuryseverity.png)
 
 ## Question 3 : What were the causes of the accidents or the incidents and the level of damage sustained on the airplane?
 * Major causes of accidents and incidents are general, human error and mechanical failure.
 * Most airplanes were substantially damaged in the events.
 * Unexpectedly most events occurred when the weather was generally good.
+![Common causes](./q3_common_causes.png)
+![Level of Damage](./q3_common_damagelevels.png)
 
 ## Question 4: Are the said safest airplanes useful for commercial and private operations?
 * The data on airplanes purpose were missing, hence the outcome of unknown use high counts.
 * `Boeing 747-123` clearly determined by bivariate, multivariate analysis is used for both commercial and personal.
-
-## Visualizations
-### Question 1:What are the specifications of aircrafts and filter airplane in the dataset?
-![Common Engine Types plot](./q1_common_engine_amateur_types.png)
-![Common Number of Engines plot](./q1_common_engine_numbers.png)
-
-### Question 2: How many accidents or incidents has each airplane been involved in and Top 10 safest airplane?
-![Severity Counts plot](./q2_common_injurysevere.png)
-![Safe Airplanes](./q2_safe_airplanetype.png)
-![Trends Injury Severity](./q2_trends_injuryseverity.png)
-
-### Question 3: What were the causes of the accidents or the incidents and the level of damage sustained on the airplane?
-![Common causes](./q3_common_causes.png)
-![Level of Damage](./q3_common_damagelevels.png)
-
-### Question 4: Are the said safest airplanes useful for commercial and private operations?
 ![Common purpose](./q4_purpose.png)
 ![Far Description](./q3_far_desc.png)
 ![Both Far Description and Purpose](./q4_far_purpose.png)
