@@ -59,7 +59,8 @@ To answer this, the analysis will explore the following sub-questions:
 * Aggregate and clean text data
     Normalize categories for consistency and easier analysis.
 
-## The dataset contains 88889 records(rows) and 31 features(columns).
+## Data Analysis
+The dataset contains 88889 records(rows) and 31 features(columns).
 The columns in the dataset contain both string represented as object and decimal numbers as float. That is 5 numerical data and 26 categorical data.
 There are several columns with missing values. Records should be `88889` which is not the case for most columns. 
 The columns names are partly clean a few needs cleaning. That is;
