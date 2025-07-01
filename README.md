@@ -1,6 +1,6 @@
 # Aviation Accident Database & Synopses, up to 2023 Data Analysis
  
- ###View the Interactive Dashboard
+ View the Interactive Dashboard
 
  [Click here to view on Tableau Public]
  ([https://public.tableau.com/views/AirplaneSafetyInsightsforBusinessInvestment/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
