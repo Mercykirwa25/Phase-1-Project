@@ -1,5 +1,12 @@
 # Aviation Accident Database & Synopses, up to 2023 Data Analysis
+
+## Interactive Dashboard
+
+Click here to view on TableauPublic
+https://public.tableau.com/views/AirplaneSafetyInsightsforBusinessInvestment/Dashboard1?:language=en-US&:sid=351CA1D1FEE64A02B64F69E509CC7406-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Project Overview
+
 This project analyzes the `Aviation Accident Database & Synopses` `dataset`, which contains records of civil aviation accidents and selected incidents from 1962 to 2023.
 
 The goal is to extract meaningful insights through data cleaning, transformation, and visualization to support business decisions regarding which airplane types to consider for commercial and private use.
@@ -70,8 +77,7 @@ The columns names are partly clean a few needs cleaning. That is;
 * They contain dots(.) which is fine.
 However,
 * The title casing should be standardized
-* Dates should be converted to Datetime
-  
+* Dates should be converted to Datetime  
 
 ## Question 1 : What are the specifications of aircrafts and filter airplane in the dataset?
 * Most Airplanes have 1 engine.
@@ -93,6 +99,7 @@ However,
 ![Safe Airplanes](./q2_safe_airplanetype.png)
 
 ![Trends Injury Severity](./q2_trends_injuryseverity.png)
+
 
 ## Question 3 : What were the causes of the accidents or the incidents and the level of damage sustained on the airplane?
 * Major causes of accidents and incidents are general, human error and mechanical failure.
