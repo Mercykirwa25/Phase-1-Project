@@ -3,7 +3,7 @@
  View the Interactive Dashboard
 
  Click here to view on Tableau Public:
- ([https://public.tableau.com/views/AirplaneSafetyInsightsforBusinessInvestment/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
+ https://public.tableau.com/views/AirplaneSafetyInsightsforBusinessInvestment/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Project Overview
 This project analyzes the `Aviation Accident Database & Synopses` `dataset`, which contains records of civil aviation accidents and selected incidents from 1962 to 2023.
