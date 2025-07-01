@@ -138,6 +138,6 @@ Nevertheless, based on their strong safety profiles, defined by high event count
 
 `Boeing 737-130`
 
-These aircraft are ranked among the top five safest based on injury and damage metrics, and merit consideration for future expansion once operational data is clarified.  
+These aircrafts are ranked among the top five safest based on injury and damage metrics, and merit consideration for future expansion once operational data is clarified.  
 
   
