@@ -2,7 +2,7 @@
  
  View the Interactive Dashboard
 
- [Click here to view on Tableau Public]
+ Click here to view on Tableau Public:
  ([https://public.tableau.com/views/AirplaneSafetyInsightsforBusinessInvestment/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
 
 ## Project Overview
